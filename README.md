@@ -80,9 +80,18 @@ Reviews dos usuários (texto livre)
 
 O dataset já inclui o campo `Sentiment` (Positive / Negative / Neutral), que é mapeado para Positivo / Negativo / Neutro.
 
-### Saída
+### Resultados (conjunto de teste — 20%)
 
-Probabilidade média de sentimento positivo por app → `results/sentiment_per_app.csv`
+| Classe | Precision | Recall | F1-Score |
+|--------|-----------|--------|----------|
+| Negativo | 0.84 | 0.55 | 0.66 |
+| Neutro | 0.71 | 0.17 | 0.27 |
+| Positivo | 0.76 | 0.97 | 0.85 |
+| **Acurácia geral** | | | **77%** |
+
+A classe Neutro apresentou F1 baixo (0.27), comportamento esperado: reviews com nota intermediária tendem a misturar elogios e críticas, o que dificulta a classificação. O modelo foi mantido com três classes por ser requisito do trabalho.
+
+A saída desta camada é a **probabilidade média de sentimento positivo** por app, calculada sobre todas as suas reviews → `results/sentiment_per_app.csv` (826 apps)
 
 ---
 
@@ -159,6 +168,29 @@ fitness = Σ(score_fuzzy) + bônus_diversidade − penalidade_repetição
 bônus_diversidade = 2.0 × (n_categorias_distintas − 1)
 penalidade_repetição = 3.0 × max(0, apps_mesma_categoria − 2)
 ```
+
+---
+
+## Resultados
+
+### Recomendação Final (execução real)
+
+Pipeline concluído em **19.6s** com 780 apps processados pelas três camadas.
+
+| App | Categoria | Rating | Prob. Positivo | Score Fuzzy |
+|-----|-----------|--------|---------------|-------------|
+| 7 Weeks - Habit & Goal Tracker | PRODUCTIVITY | 4.4 | 0.84 | 8.83 |
+| Crew - Free Messaging and Scheduling | BUSINESS | 4.6 | 0.86 | 8.83 |
+| Bubble Shooter 2 | GAME | 4.3 | 0.79 | 8.83 |
+| Easy Hair Style Design | LIFESTYLE | 4.3 | 0.83 | 8.83 |
+| CheapTickets – Hotels, Flights & Travel Deals | TRAVEL_AND_LOCAL | 4.4 | 0.78 | 8.83 |
+| **Total** | **5 categorias distintas** | — | — | **44.17** |
+
+> **Nota sobre o score:** todos os apps ficaram com score 8.83 porque o sistema Mamdani satura quando sentimento positivo e rating alto ocorrem simultaneamente — esse é o teto prático da defuzzificação com esses parâmetros. O GA diferencia o portfólio pelo bônus de diversidade de categorias, não pelo score em si.
+
+### Evolução do GA
+
+O fitness convergiu nas primeiras gerações e estabilizou em torno de 52.17 (score fuzzy + bônus de diversidade), com 5 categorias distintas no portfólio final.
 
 ---
 
