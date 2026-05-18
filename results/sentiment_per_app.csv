@@ -1,0 +1,827 @@
+app,prob_positivo,n_reviews,sentiment_label
+10 Best Foods for You,0.8549546953319834,194,Positivo
+104 找工作 - 找工作 找打工 找兼職 履歷健檢 履歷診療室,0.8372187801403945,38,Positivo
+11st,0.675791900868772,37,Positivo
+1800 Contacts - Lens Store,0.8479788267526548,80,Positivo
+1LINE – One Line with One Touch,0.7871694241104771,38,Positivo
+2018Emoji Keyboard 😂 Emoticons Lite -sticker&gif,0.7881328711296093,31,Positivo
+21-Day Meditation Experience,0.7898149797947674,80,Positivo
+"2Date Dating App, Love and matching",0.7364565289132521,38,Positivo
+2GIS: directory & navigator,0.6751891565261116,40,Positivo
+2RedBeans,0.8393503599270048,38,Positivo
+2ndLine - Second Phone Number,0.4819668940673473,40,Positivo
+30 Day Fitness Challenge - Workout at Home,0.877001844477643,31,Positivo
+365Scores - Live Scores,0.733662971623617,7,Positivo
+4 in a Row,0.7862537350800726,20,Positivo
+4K Wallpapers and Ultra HD Backgrounds,0.826970375756437,9,Positivo
+591房屋交易-租屋、中古屋、新建案、實價登錄、別墅透天、公寓套房、捷運、買房賣房行情、房價房貸查詢,0.6126235517327014,15,Positivo
+591房屋交易-香港,0.7091954903839781,9,Positivo
+7 Cups: Anxiety & Stress Chat,0.8141918850730278,8,Positivo
+7 Day Food Journal Challenge,0.7916472732457789,9,Positivo
+7 Minute Workout,0.9086807367608407,11,Positivo
+7 Weeks - Habit & Goal Tracker,0.8375536118640535,14,Positivo
+8 Ball Pool,0.463936173882798,219,Positivo
+850 Sports News Digest,0.9121286070392478,39,Positivo
+8fit Workouts & Meal Planner,0.801718623801319,171,Positivo
+95Live -SG#1 Live Streaming App,0.6076244445719444,74,Positivo
+A Call From Santa Claus!,0.6236573459571354,34,Positivo
+A Word A Day,0.8240820576892744,4,Positivo
+A&E - Watch Full Episodes of TV Shows,0.786016192279369,38,Positivo
+A+ Gallery - Photos & Videos,0.7284298040919264,41,Positivo
+A+ Mobile,0.7483111833777579,84,Positivo
+ABC Kids - Tracing & Phonics,0.8609514777274763,36,Positivo
+ABC News - US & World News,0.44756019137277653,70,Positivo
+ABC Preschool Free,0.7495201868288843,34,Positivo
+ABCmouse.com,0.655488705149999,36,Positivo
+AC - Tips & News for Android™,0.5894457733516856,35,Positivo
+ACE Elite,0.6334999074701024,32,Positivo
+"AD - Nieuws, Sport, Regio & Entertainment",0.6930764538251891,18,Positivo
+AMC Theatres,0.6943123426413234,6,Positivo
+ANA,0.5329963007883383,26,Positivo
+"AOL - News, Mail & Video",0.6009288216478574,33,Positivo
+AP Mobile - Breaking News,0.7702961438857909,36,Positivo
+APE Weather ( Live Forecast),0.8413895284994192,31,Positivo
+"APUS Launcher - Theme, Wallpaper, Hide Apps",0.770592991227161,30,Positivo
+ARY NEWS,0.6860564851286781,32,Positivo
+ARY NEWS URDU,0.6736213187636305,34,Positivo
+ASOS,0.7951048829191828,66,Positivo
+ASUS Calling Screen,0.4844990444012158,24,Positivo
+ASUS Cover for ZenFone 2,0.5378294755193448,6,Positivo
+ASUS Sound Recorder,0.8738857040133611,16,Positivo
+ASUS SuperNote,0.6946917631437317,23,Positivo
+"AT&T Navigator: Maps, Traffic",0.6609588264378358,29,Positivo
+AT&T Smart Wi-Fi,0.6421735720986308,20,Positivo
+AT&T Visual Voicemail,0.5050078272298234,25,Positivo
+"AVG Cleaner – Speed, Battery & Memory Booster",0.7499375442045979,35,Positivo
+Abs Training-Burn belly fat,0.767379951888556,36,Positivo
+Account Manager,0.41093666283482644,33,Negativo
+Accounting App - Zoho Books,0.8036967341869683,71,Positivo
+AccuWeather: Daily Forecast & Live Weather Reports,0.6818064963327148,32,Positivo
+Acorn TV: World-class TV from Britain and Beyond,0.5583986453434444,23,Positivo
+Acorns - Invest Spare Change,0.5257666178210931,5,Negativo
+AdWords Express,0.6028923128044379,48,Positivo
+Ada - Your Health Guide,0.84869929253884,63,Positivo
+Add Text To Photo,0.7205260884371648,33,Positivo
+Adobe Acrobat Reader,0.7169032231275766,162,Positivo
+Adobe Photoshop Express:Photo Editor Collage Maker,0.7953924981867311,42,Positivo
+Advanced Task Killer,0.5419309349364098,15,Positivo
+Agar.io,0.5066909790094247,136,Positivo
+Age Calculator,0.7251868828498709,32,Positivo
+Agoda – Hotel Booking Deals,0.8570484681307852,35,Positivo
+Air Traffic,0.7417719236576477,22,Positivo
+AirAsia,0.40723673190780313,21,Positivo
+AirBrush: Easy Photo Editor,0.8067312121226747,24,Positivo
+Airbnb,0.6209321284189039,62,Positivo
+Airport + Flight Tracker Radar,0.6673034375433932,22,Positivo
+Airway Ex - Intubate. Anesthetize. Train.,0.721614848091564,39,Positivo
+Akinator,0.5400091630891675,38,Positivo
+AlReader -any text book reader,0.7892122930666521,39,Positivo
+Alarm Clock,0.7426272382757264,36,Positivo
+Alarm Clock Free,0.672479005923397,34,Positivo
+Alfred Home Security Camera,0.7368934314745064,29,Positivo
+"AliExpress - Smarter Shopping, Better Living",0.6694546340142072,45,Positivo
+All Email Providers,0.514795729446111,4,Negativo
+All Events in City,0.858841942444294,24,Positivo
+All Football - Latest News & Videos,0.8319787761810915,32,Positivo
+"All Football GO- Live Score, Games",0.8380955939831933,35,Positivo
+All Language Translator Free,0.8651647178707779,30,Positivo
+All Maths Formulas,0.8221256472351047,32,Positivo
+All Mental disorders,0.7537583527224462,65,Positivo
+All Social Networks,0.45064361586564083,34,Negativo
+All Video Downloader 2018,0.7871472036270207,33,Positivo
+"All-In-One Toolbox: Cleaner, Booster, App Manager",0.7340548305595999,22,Positivo
+Allegiant,0.7197442112403606,3,Positivo
+Allrecipes Dinner Spinner,0.7484601191606529,19,Positivo
+Alto's Adventure,0.6392753850470285,175,Positivo
+Amazon Drive,0.6557009813071141,36,Positivo
+"Amazon FreeTime – Kids’ Videos, Books, & TV shows",0.8407465348929524,33,Positivo
+Amazon Kindle,0.6172949452782763,117,Positivo
+Amazon Shopping,0.6362703290022231,45,Positivo
+Amazon for Tablets,0.5905767765041131,20,Positivo
+American Airlines,0.45019302194365285,43,Positivo
+Amex Mobile,0.5986424528793183,35,Positivo
+Amino: Communities and Chats,0.696983655450809,35,Positivo
+Amtrak,0.5314528856671092,39,Positivo
+Anatomy Learning - 3D Atlas,0.7657266061409855,36,Positivo
+Ancestry,0.7643401441738371,37,Positivo
+AndroZip™ FREE File Manager,0.5766426373350868,39,Positivo
+"Android Auto - Maps, Media, Messaging & Voice",0.8053192794389308,31,Positivo
+Android Messages,0.5186992141148674,43,Positivo
+Anger of stick 5 : zombie,0.828197362079541,3,Positivo
+Angry Birds 2,0.45773720365989423,29,Negativo
+Angry Birds Classic,0.39482611828465647,273,Negativo
+Angry Birds Rio,0.5470082998485889,39,Positivo
+Animal Planet GO,0.7247185299548249,21,Positivo
+Animated Photo Editor,0.7675759896906683,32,Positivo
+Anime Avatar Creator: Make Your Own Avatar,0.7484465390802051,28,Positivo
+Anime Manga Coloring Book,0.7706474178049465,24,Positivo
+Anthem Anywhere,0.4441237632810307,65,Positivo
+Anthem BC Anywhere,0.4104852595034407,31,Positivo
+"Any.do: To-do list, Calendar, Reminders & Planner",0.7521921309820128,98,Positivo
+"Apartment List: Housing, Apt, and Property Rentals",0.8525580843013509,47,Positivo
+"Apartment, Home Rental Search: Realtor.com Rentals",0.6154891683438379,25,Positivo
+Apartments & Rentals - Zillow,0.7956036297602583,44,Positivo
+Apartments.com Rental Search,0.6009419421086648,69,Positivo
+Apex Launcher,0.6207981958029396,60,Positivo
+Apk Installer,0.5472569475170656,27,Positivo
+App vault,0.5380654515542396,21,Positivo
+AppLock,0.492699639664468,13,Positivo
+AppLock - Fingerprint,0.6663211702991617,19,Positivo
+Apple Daily 蘋果動新聞,0.5411204564083892,33,Positivo
+Aprender inglés con Wlingua,0.9126367542573798,56,Positivo
+Archos File Manager,0.6219164727376791,29,Positivo
+Arrow.io,0.6329057200107411,94,Positivo
+Asana: organize team projects,0.7510080616250377,43,Positivo
+Ascape VR: 360° Virtual Travel,0.597636485813442,18,Positivo
+Asphalt 8: Airborne,0.5379939227837384,73,Positivo
+Associated Credit Union Mobile,0.8149143238236671,35,Positivo
+Asteroids 3D live wallpaper,0.7521926562704415,30,Positivo
+Atlan3D Navigation: Korea navigator,0.7510177767467973,35,Positivo
+AutoCAD - DWG Viewer & Editor,0.6928597003450248,36,Positivo
+AutoScout24 Switzerland – Find your new car,0.8169982194474508,36,Positivo
+Avakin Life - 3D virtual world,0.698507565357991,69,Positivo
+Aviary Effects: Classic,0.6855848251801451,37,Positivo
+Aviary Stickers: Free Pack,0.7094586928075827,37,Positivo
+Azar,0.5979777412891367,90,Positivo
+Azpen eReader,0.6510261954821333,23,Positivo
+B612 - Beauty & Filter Camera,0.6387730952291679,16,Positivo
+BBC Media Player,0.4652980202112014,24,Positivo
+BBC News,0.6128077800927574,63,Positivo
+BBC Sport,0.7050210437419215,49,Positivo
+BBM - Free Calls & Messages,0.617053701247508,34,Positivo
+BBVA Compass Banking,0.6331482907300268,29,Positivo
+BBVA Spain,0.7929842789482241,32,Positivo
+BBW Dating & Curvy Singles Chat- LargeFriends,0.741669190730017,75,Positivo
+BBW Dating & Plus Size Chat,0.6033306472842376,108,Positivo
+BBWCupid - BBW Dating App,0.6322799664550587,39,Positivo
+BELONG Beating Cancer Together,0.7787365284190336,38,Positivo
+BEST CAR SOUNDS,0.7875073211163551,36,Positivo
+BET NOW - Watch Shows,0.5084455325634918,108,Positivo
+BEYBLADE BURST app,0.5341562203983362,36,Positivo
+BIG Launcher,0.699547736427446,40,Positivo
+BLK - Swipe. Match. Chat.,0.8026462865875533,40,Positivo
+BZWBK24 mobile,0.7331395137619703,23,Positivo
+BaBe - Baca Berita,0.6651981369110678,14,Positivo
+BaBe Lite - Baca Berita Hemat Kuota,0.7462473138520908,12,Positivo
+BaBe+ - Berita Indonesia,0.7698446510890966,20,Positivo
+Babbel – Learn Languages,0.8400013282243625,48,Positivo
+Babbel – Learn Spanish,0.8721280928845467,39,Positivo
+Baby ABC in box! Kids alphabet games for toddlers!,0.8020326680666231,37,Positivo
+Baby Monitor,0.8028775810492449,35,Positivo
+Baby Name Together,0.7594862069729981,36,Positivo
+Baby Panda Care,0.7314056181462177,50,Positivo
+Baby Panda Learns Shapes,0.7635161475758372,35,Positivo
+Baby Panda Musical Genius,0.7410034185809384,36,Positivo
+Baby Panda’s Juice Shop,0.8412513285522332,3,Positivo
+Baby Tiger Care - My Cute Virtual Pet Friend,0.7717611874390444,9,Positivo
+Baby puzzles,0.6503802409975745,34,Positivo
+"Baca- Berita Terbaru, Informasi, Gosip dan Politik",0.7017117317263863,33,Positivo
+Backgrounds (HD Wallpapers),0.8303256655376557,30,Positivo
+Backgrounds HD (Wallpapers),0.7757511250683209,29,Positivo
+BaconReader for Reddit,0.7180061403299305,33,Positivo
+Bad Piggies,0.4711770670756431,77,Negativo
+Badoo - Free Chat & Dating App,0.559066234805836,120,Positivo
+Bagan - Myanmar Keyboard,0.7503468180654276,32,Positivo
+Banco Itaú,0.5913232918060163,40,Positivo
+Banco do Brasil,0.6561457428929891,39,Positivo
+Bancomer móvil,0.2864564685712938,40,Negativo
+Banfield Pet Health Tracker,0.6117754147984679,80,Positivo
+Bangla Newspaper – Prothom Alo,0.6329083786850966,38,Positivo
+Banjo,0.6865192836977725,39,Positivo
+Bank of America Mobile Banking,0.6129208183245017,32,Positivo
+BankMobile Vibe App,0.809030259117778,23,Positivo
+Banorte Movil,0.5975555545219104,26,Positivo
+Banque Populaire,0.4615025093880263,18,Positivo
+Barbie Life™,0.6442936357712061,19,Positivo
+Barbie Magical Fashion,0.6717064886682071,31,Positivo
+Barbie™ Fashion Closet,0.6293477377275694,77,Positivo
+Barclays US for Android,0.4926868491753068,40,Positivo
+Barcode Scanner,0.795211525479113,37,Positivo
+Baritastic - Bariatric Tracker,0.886641218215232,40,Positivo
+Baseball Boy!,0.5008494092328326,40,Positivo
+Basketball FRVR - Shoot the Hoop and Slam Dunk!,0.7112599473371439,35,Positivo
+Basketball Stars,0.5383179732374065,89,Positivo
+Bathroom Decorating Ideas,0.731176448715381,39,Positivo
+Battlelands Royale,0.6547891832790534,89,Positivo
+Be A Legend: Soccer,0.37733965325994867,98,Negativo
+BeSoccer - Soccer Live Score,0.7741825996599334,34,Positivo
+BeWild Free Dating & Chat App,0.7340400436316374,38,Positivo
+Beautiful Design Birthday Cake,0.7434788696031479,35,Positivo
+Beautiful Widgets Free,0.5574855003167349,40,Positivo
+Beautiful Widgets Pro,0.6684928549958387,37,Positivo
+Beauty Camera - Selfie Camera,0.6353327670620558,36,Positivo
+Beauty Makeup Snappy Collage Photo Editor - Lidow,0.7035756121255364,4,Positivo
+BeautyPlus - Easy Photo Editor & Selfie Camera,0.7974242495241088,4,Positivo
+Best Car Wallpapers,0.3921525255629302,3,Negativo
+"Best Wallpapers Backgrounds(100,000+ 4K HD)",0.7455220552003154,9,Positivo
+Best Wallpapers QHD,0.8633714911611532,35,Positivo
+"BestCam Selfie-selfie, beauty camera, photo editor",0.5630081200469035,97,Positivo
+BetterMe: Weight Loss Workouts,0.8048117647064261,37,Positivo
+Betterment,0.6504096688225548,40,Positivo
+BeyondMenu Food Delivery,0.8786252363191369,38,Positivo
+BeyondPod Podcast Manager,0.7025398331593049,40,Positivo
+Bible,0.8327213766918938,97,Positivo
+Big Days - Events Countdown,0.7536532482533173,36,Positivo
+"BigOven Recipes, Meal Planner, Grocery List & More",0.8608295141935853,40,Positivo
+"BiggerCity: Chat for gay bears, chubs & chasers",0.7032867594404859,40,Positivo
+Bike Computer - GPS Cycling Tracker,0.739081468745552,39,Positivo
+Binaural Beats Meditation,0.8080930450569055,38,Positivo
+Binaural Beats Therapy,0.7599209663915975,39,Positivo
+BioLife Plasma Services,0.5762733016778169,39,Positivo
+Birdays – Birthday reminder,0.8167553676082238,37,Positivo
+Birds Sounds Ringtones & Wallpapers,0.7621288929565241,36,Positivo
+Black People Meet Singles Date,0.6905099929545437,28,Positivo
+Block Puzzle,0.6184411344273218,154,Positivo
+Block Puzzle Classic Legend !,0.6988746263032846,72,Positivo
+Blogaway for Android (Blogger),0.6263849116119977,36,Positivo
+Blogger,0.7421638919399768,38,Positivo
+Bloglovin',0.6315801024686953,38,Positivo
+Blood Donor,0.6833149303667516,39,Positivo
+Blood Pressure,0.8328058213662615,39,Positivo
+Blood Pressure Log - MyDiary,0.8642040759274318,40,Positivo
+Blood Pressure(BP) Diary,0.549343943421031,40,Positivo
+Bloomberg Professional,0.5102030121964096,39,Positivo
+Bloomberg: Market & Financial News,0.5892867294469574,40,Positivo
+Blossom Blast Saga,0.5442641524341226,36,Positivo
+BluTV,0.7193281871010204,24,Positivo
+Blur Image Background,0.8134553390605698,10,Positivo
+Blur Image Background Editor (Blur Photo Editor),0.746344100274687,39,Positivo
+Booking.com Travel Deals,0.5717232502884854,120,Positivo
+Bowmasters,0.5733744648085837,312,Positivo
+Box,0.7649393048830357,117,Positivo
+Boxed Wholesale,0.7753205736274953,40,Positivo
+Boys Photo Editor - Six Pack & Men's Suit,0.7664876879230549,37,Positivo
+Brain Waves - Binaural Beats,0.7132657083175393,40,Positivo
+Branch,0.7052495808661864,40,Positivo
+Brasileirão Pro 2018 - Série A e B,0.8393861305791873,40,Positivo
+"Breaking News, Local news, Attacks and Alerts Free",0.6855115040678903,27,Positivo
+Brightest Flashlight Free ®,0.8427543340725127,5,Positivo
+Brightest LED Flashlight,0.8145299756506397,16,Positivo
+Brilliant,0.8131449183203117,28,Positivo
+Brit + Co,0.652322199228532,16,Positivo
+British Airways,0.651978866469653,21,Positivo
+Browser 4G,0.7871405764903942,33,Positivo
+Bualuang mBanking,0.6191873738171696,34,Positivo
+Bubble Shooter,0.7367773323437148,145,Positivo
+Bubble Shooter 2,0.7906764435851497,10,Positivo
+Bubble Shooter Genies,0.6396413481779768,10,Positivo
+Bubble Shooter Space,0.7035062898398367,24,Positivo
+Bubble Witch 3 Saga,0.6166178636043974,31,Positivo
+Buienradar - weer,0.6199698564271238,34,Positivo
+Build a Bridge!,0.6671968582388178,85,Positivo
+Bukalapak - Jual Beli Online,0.6071903087933863,31,Positivo
+BukuBayi - Perkembangan Bayi,0.8403308638158968,25,Positivo
+Burner - Free Phone Number,0.6532356924260153,6,Positivo
+Buscapé - Ofertas e descontos,0.736889491324217,3,Positivo
+Business Calendar 2,0.7830364060666148,25,Positivo
+Butterfly Live Wallpaper,0.8269253970741859,28,Positivo
+Buzz Launcher-Smart&Free Theme,0.7111845133608478,36,Positivo
+"BuzzFeed: News, Tasty, Quizzes",0.6454119154560674,71,Positivo
+"BÁO MỚI - Đọc Báo, Tin Tức 24h",0.6689490485710591,30,Positivo
+C Programming,0.8747803869728467,35,Positivo
+C++ Programming,0.7347718821352232,36,Positivo
+C++ Tutorials,0.8546009121920921,35,Positivo
+CAIXA,0.4593482333928468,34,Positivo
+CALCU™ Stylish Calculator Free,0.7943856061723351,38,Positivo
+CATS: Crash Arena Turbo Stars,0.5862150543473722,57,Positivo
+"CBS Sports App - Scores, News, Stats & Watch Live",0.6618705937842454,192,Positivo
+CBS Sports Fantasy,0.7482933490454625,54,Positivo
+CDL Practice Test 2018 Edition,0.8238842389106803,24,Positivo
+CIA - Caller ID & Call Blocker,0.7181475985780368,14,Positivo
+"CM Flashlight (Compass, SOS)",0.9208247460059851,4,Positivo
+"CM Launcher 3D - Theme, Wallpapers, Efficient",0.7875186847511565,17,Positivo
+CM Locker - Security Lockscreen,0.6873644252601324,86,Positivo
+CMB Free Dating App,0.7847460119640195,69,Positivo
+CNBC: Breaking Business News & Live Market Data,0.7402108627809143,37,Positivo
+CNN Breaking US & World News,0.5955876765356398,110,Positivo
+COOKING MAMA Let's Cook!,0.7578629147413201,35,Positivo
+CVS Caremark,0.6690298347127374,39,Positivo
+CW Seed,0.7550876926898774,36,Positivo
+CWT To Go,0.738837095752335,38,Positivo
+Cache Cleaner-DU Speed Booster (booster & cleaner),0.7351879704637502,26,Positivo
+"Calculator - free calculator, multi calculator app",0.4620576670838552,4,Positivo
+Call Blocker,0.5817008804415528,3,Positivo
+Call Control - Call Blocker,0.3818932647973223,3,Positivo
+Call of Duty:Black Ops Zombies,0.2817855762199937,3,Negativo
+Calls & Text by Mo+,0.7847367268742031,6,Positivo
+Calls Blacklist - Call Blocker,0.6848793158796456,3,Positivo
+"Calm - Meditate, Sleep, Relax",0.8142661446350673,65,Positivo
+Calorie Counter & Diet Tracker,0.8105710144965518,135,Positivo
+Calorie Counter - EasyFit free,0.8991853488030923,37,Positivo
+Calorie Counter - Macros,0.8379536536112373,200,Positivo
+Calorie Counter - MyFitnessPal,0.6989642272120993,254,Positivo
+Calorie Counter - MyNetDiary,0.8736544574653676,139,Positivo
+Cameringo Lite. Filters Camera,0.8850258347584465,9,Positivo
+Candy Bomb,0.8364809825832012,68,Positivo
+"Candy Camera - selfie, beauty camera, photo editor",0.7050086700879195,114,Positivo
+Candy Crush Jelly Saga,0.42197538788638034,73,Negativo
+Candy Crush Saga,0.40012921997720885,240,Negativo
+Candy Crush Soda Saga,0.3977313402579704,166,Negativo
+Candy Day,0.7491958944449774,37,Positivo
+Candy Pop Story,0.6661629777565727,40,Positivo
+Candy Smash,0.7363540215139112,39,Positivo
+"Candy selfie - photo editor, live filter camera",0.7703666895252935,31,Positivo
+"Canva: Poster, banner, card maker & graphic design",0.7452553497438212,38,Positivo
+Canvas Student,0.6551280347742688,4,Positivo
+Cat Sim Online: Play with Cats,0.7602847842580408,61,Positivo
+Caviar - Food Delivery,0.7005118286775404,39,Positivo
+Chakra Cleansing,0.8563566881543802,39,Positivo
+Championat,0.7161411621069398,40,Positivo
+Chapters: Interactive Stories,0.7410807745320668,38,Positivo
+Chase Mobile,0.5555576337954496,40,Positivo
+"Chat Rooms, Avatars, Date - Galaxy",0.6179048589187911,74,Positivo
+ChatVideo Meet new people,0.6279208616817339,37,Positivo
+Cheap Flights & Hotels momondo,0.7219044239049575,36,Positivo
+Cheap hotel deals and discounts — Hotellook,0.716167326915934,39,Positivo
+"CheapTickets – Hotels, Flights & Travel Deals",0.7796934888188117,37,Positivo
+Cheapflights – Flight Search,0.8005941867488284,39,Positivo
+CheckPoints 🏆 Rewards App,0.6943001046250471,40,Positivo
+Checkers ✔️,0.626835706621337,36,Positivo
+Checkout 51: Grocery coupons,0.7215665534474538,26,Positivo
+Choice Hotels,0.7439203292995575,10,Positivo
+Choices: Stories You Play,0.6161085854638778,39,Positivo
+Christian Dating For Free App,0.6626812789512934,76,Positivo
+Chrome Beta,0.7120822817267293,38,Positivo
+Chrome Dev,0.7133471332303072,38,Positivo
+Cinemark Theatres,0.5122415841493431,40,Positivo
+Cisco Webex Meetings,0.6489455111050452,39,Positivo
+Cisco Webex Teams,0.5665761816698711,40,Positivo
+Citi Mobile®,0.48239246961381077,40,Positivo
+Citibanamex Movil,0.5974663393368206,39,Positivo
+Citizens Bank Mobile Banking,0.5126867814427343,39,Positivo
+CityMaps2Go Plan Trips Travel Guide Offline Maps,0.7650789027891292,40,Positivo
+Claro,0.4798383032455108,40,Positivo
+Clash Royale,0.6027497494200249,165,Positivo
+Clash of Clans,0.6728120058398299,33,Positivo
+Color Flashlight,0.7133632908657517,11,Positivo
+Color Road,0.41740697406607064,37,Negativo
+Color Touch Effects,0.6863341930659955,38,Positivo
+Color by Number - Draw Sandbox Pixel Art,0.7280271489962281,91,Positivo
+Color by Number – New Coloring Book,0.7389405499195095,37,Positivo
+ColorFil - Adult Coloring Book,0.7618154044853784,32,Positivo
+ColorNote Notepad Notes,0.8380854387065347,131,Positivo
+ColorSnap® Visualizer,0.5694954358861827,39,Positivo
+Colorfit - Drawing & Coloring,0.7505068878546152,38,Positivo
+Colorful Glitter Neon Butterfly Keyboard Theme,0.6894904098180439,31,Positivo
+Colorfy: Coloring Book for Adults - Free,0.651085376890981,133,Positivo
+Coloring & Learn,0.8528452632326107,38,Positivo
+Coloring book moana,0.7024597337143199,42,Positivo
+Comedy Central,0.6156119991631457,80,Positivo
+Common Core,0.7748855057994053,8,Positivo
+Comptia A+ 220-901 & 220-902,0.8602030377878095,29,Positivo
+ConnectLine,0.6697636440563631,38,Positivo
+Contacts,0.5455564999734918,38,Positivo
+Contacts+,0.7328510639647772,38,Positivo
+Content Transfer,0.719977194458425,40,Positivo
+ConvertPad - Unit Converter,0.7150092609814923,40,Positivo
+Cookbook Recipes,0.8919649470176796,37,Positivo
+Cooking Channel,0.7715794611607135,39,Positivo
+Cooking Fever,0.481922463261013,135,Negativo
+Cooking Madness - A Chef's Restaurant Games,0.5583544359503413,37,Positivo
+Cookpad,0.8064361546435439,36,Positivo
+Cool Popular Ringtones 2018 🔥,0.7025937158160297,36,Positivo
+Cool Reader,0.6973744659081863,38,Positivo
+Couch to 10K Running Trainer,0.8243688940766095,40,Positivo
+Couch to 5K by RunDouble,0.7563420377033038,39,Positivo
+Couchsurfing Travel App,0.7566120200608475,39,Positivo
+Cougar Dating Life : Date Older Women Sugar Mummy,0.7026460425390114,78,Positivo
+Couple - Relationship App,0.8522468914537475,23,Positivo
+Credit Karma,0.8324999247878756,35,Positivo
+Credit Sesame,0.6059413052365704,38,Positivo
+CreditWise from Capital One,0.7592710405033664,38,Positivo
+Crew - Free Messaging and Scheduling,0.8558043980534109,80,Positivo
+Cricbuzz - Live Cricket Scores & News,0.6719863322181174,38,Positivo
+Cricket Visual Voicemail,0.49651974973531987,40,Positivo
+Crossy Road,0.7948104840256354,91,Positivo
+Crunchyroll - Everything Anime,0.7339381430761852,120,Positivo
+Current debit card and app made for teens,0.854911595108138,40,Positivo
+Curriculum vitae App CV Builder Free Resume Maker,0.7970630872076678,38,Positivo
+Curso de Ingles Gratis,0.8887933246381974,37,Positivo
+Cut the Rope 2,0.723117572932244,90,Positivo
+Cut the Rope FULL FREE,0.6241726055726123,28,Positivo
+Cycling - Bike Tracker,0.8375150949134548,25,Positivo
+"Cymera Camera- Photo Editor, Filter,Collage,Layout",0.7629753704742196,77,Positivo
+Czech Public Transport IDOS,0.7536062288579278,28,Positivo
+DC Comics,0.8876941701286156,35,Positivo
+DC Super Hero Girls™,0.8622917763104858,102,Positivo
+DEAD TARGET: FPS Zombie Apocalypse Survival Games,0.6423595479636999,125,Positivo
+DEER HUNTER 2018,0.3937479730874535,3,Positivo
+DELISH KITCHEN - 無料レシピ動画で料理を楽しく・簡単に！,0.8907268558907907,24,Positivo
+DINO HUNTER: DEADLY SHORES,0.6017743540940504,92,Positivo
+DIY Garden Ideas,0.8403814832676684,33,Positivo
+DIY On A Budget,0.8151301343616628,33,Positivo
+DMV Permit Practice Test 2018 Edition,0.8585091312240625,34,Positivo
+DRAGON BALL LEGENDS,0.7000099799818379,167,Positivo
+DSLR Camera Hd Ultra Professional,0.6529522815904052,35,Positivo
+DStv Now,0.5537337410935121,39,Positivo
+DU Browser—Browse fast & fun,0.6957425014075793,40,Positivo
+"DU Recorder – Screen Recorder, Video Editor, Live",0.6874390830709762,58,Positivo
+Daily Yoga - Yoga Fitness Plans,0.861784885374094,12,Positivo
+"Dailyhunt (Newshunt) - Latest News, Viral Videos",0.5779237241133952,4,Positivo
+Dairy Queen,0.6972295283144772,3,Positivo
+Daniel Tiger for Parents,0.8598968531677036,3,Positivo
+"Dating App, Flirt & Chat : W-Match",0.609453418639903,6,Positivo
+Dating for 50 plus Mature Singles – FINALLY,0.866757521835228,7,Positivo
+Daum Mail - 다음 메일,0.8054309253979308,5,Positivo
+Davis's Drug Guide,0.6191505915176939,3,Positivo
+Davis's Drug Guide for Nurses,0.9264969024920603,3,Positivo
+Debonairs Pizza,0.6053185251985349,6,Positivo
+"Delivery Club–Доставка еды:пицца,суши,бургер,салат",0.5782222777554782,24,Positivo
+Delta Dental,0.4378194645283707,40,Positivo
+Despegar.com Hoteles y Vuelos,0.665253063362718,39,Positivo
+Detector de Radares Gratis,0.799601996853297,29,Positivo
+Device Help,0.5175205538760638,37,Positivo
+Diabetes & Diet Tracker,0.889443156432095,74,Positivo
+Diabetes:M,0.8502535659489393,39,Positivo
+Diamond Zipper Lock Screen,0.6741526066299898,34,Positivo
+Diary with lock,0.8490600402656036,99,Positivo
+Diary with lock password,0.7784533240799493,52,Positivo
+Dictionary - Merriam-Webster,0.6881092928481028,8,Positivo
+Die TK-App – alles im Griff,0.6660790897784062,27,Positivo
+Digg,0.5632505829945319,33,Positivo
+DigiCal Calendar Agenda,0.7663334026435351,23,Positivo
+Digit Save Money Automatically,0.7532672126576169,56,Positivo
+Digital Alarm Clock,0.7793763859396039,71,Positivo
+Dil Mil,0.4904116690127697,34,Positivo
+Dino War: Rise of Beasts,0.6245444680904797,27,Positivo
+Dinosaur Simulator: Dino World,0.6013329314950899,13,Positivo
+Disney Magic Kingdoms: Build Your Own Magical Park,0.597346383224078,47,Positivo
+DisneyNOW – TV Shows & Games,0.651026594511811,63,Positivo
+Divar,0.6801769399127452,37,Positivo
+Do It Later: Tasks & To-Dos,0.7013091496082271,34,Positivo
+Docs To Go™ Free Office Suite,0.6954217235166426,72,Positivo
+Doctor On Demand,0.7977727027469502,36,Positivo
+Doctor Pets,0.7100356814742168,31,Positivo
+Dog Licks Screen Wallpaper,0.7270694509217261,34,Positivo
+Dog Run - Pet Dog Simulator,0.760696714808344,73,Positivo
+Dog Sim Online: Raise a Family,0.8047198164955819,4,Positivo
+Domino's Pizza USA,0.7824573096755474,53,Positivo
+Dominos Game ✔️,0.6256164955337409,39,Positivo
+"Domofond Недвижимость. Купить, снять квартиру.",0.7165166134068797,37,Positivo
+Doodle Jump,0.6998659234081649,89,Positivo
+Door Lock Screen,0.8354197092038073,39,Positivo
+DoorDash - Food Delivery,0.5917089536509513,40,Positivo
+Dosecast - Medication Reminder,0.8329008837455426,38,Positivo
+Down Dog: Great Yoga Anywhere,0.9228621479149883,40,Positivo
+Dr. Oetker Rezeptideen,0.7300972699262205,35,Positivo
+Dr. Panda & Toto's Treehouse,0.8082534153110101,72,Positivo
+Dr. Panda Restaurant 3,0.6489129923499337,34,Positivo
+Dr. Panda Town: Vacation,0.6347353353712659,35,Positivo
+DraftKings - Daily Fantasy Sports,0.7856962297003505,36,Positivo
+Dragon Hills,0.6980418867362721,15,Positivo
+Dream League Soccer 2018,0.5727478786596094,3,Positivo
+DreamTrips,0.7053079727725164,34,Positivo
+DreamWorks Friends,0.5823116007379483,64,Positivo
+Dresses Ideas & Fashions +3000,0.7926391005605747,29,Positivo
+Droid Zap by Motorola,0.46223480956624946,40,Positivo
+DroidAdmin for Android - Advice,0.6113697648929625,38,Positivo
+Dropbox,0.677492802814413,76,Positivo
+Drugs.com Medication Guide,0.8166285751651777,39,Positivo
+Dude Perfect 2,0.6829768515352661,84,Positivo
+Dumb Ways to Die 2: The Games,0.5856247277816964,37,Positivo
+Dungeon Hunter Champions: Epic Online Action RPG,0.5824178678043095,40,Positivo
+Dunkin' Donuts,0.7230820614078716,38,Positivo
+Duolingo: Learn Languages Free,0.8561418737322876,240,Positivo
+DuraSpeed,0.537878809147754,37,Positivo
+E*TRADE Mobile,0.6298527602942003,32,Positivo
+"Easy - taxi, car, ridesharing",0.7119149523535748,46,Positivo
+Easy Hair Style Design,0.8265171773254009,30,Positivo
+Easy Healthy Recipes,0.8924372716014525,29,Positivo
+Easy Installer - Apps On SD,0.5385373706475692,38,Positivo
+Easy Makeup Tutorials,0.7357271928640262,36,Positivo
+Easy Origami Ideas,0.678305778672585,34,Positivo
+Easy Recipes,0.7907759439990549,40,Positivo
+Easy Voice Recorder,0.8861736501381184,39,Positivo
+EasyBib: Citation Generator,0.5543792219172203,38,Positivo
+Eat Fit - Diet and Health Free,0.7260005615645096,89,Positivo
+Eat24 Food Delivery & Takeout,0.7103203589509366,40,Positivo
+EatStreet Food Delivery App,0.8498924011702937,37,Positivo
+"Ebates: Cash Back, Coupons, Rewards & Savings",0.7259277554362207,38,Positivo
+Ebook Reader,0.8152912574184632,39,Positivo
+Ecobank Mobile Banking,0.4616088464621532,39,Positivo
+Edmodo,0.8051541804728869,35,Positivo
+Educational Games 4 Kids,0.8108438297446842,38,Positivo
+Educational Games for Kids,0.8693537244254563,35,Positivo
+El tiempo de AEMET,0.6876474883173032,14,Positivo
+English with Lingualeo,0.6665825912832811,8,Positivo
+English-Myanmar Dictionary,0.8306290049701641,38,Positivo
+Entel,0.5341990947561351,39,Positivo
+Enterprise Rent-A-Car,0.776069243197376,39,Positivo
+Episode - Choose Your Story,0.601697099818436,160,Positivo
+Epocrates Plus,0.798388273480144,40,Positivo
+Equestria Girls,0.6185237944056362,74,Positivo
+Essential Anatomy 3,0.8325240279493699,80,Positivo
+Essential Resources,0.7690684117590167,40,Positivo
+Etsy: Handmade & Vintage Goods,0.7214674668831474,78,Positivo
+Etta Homes,0.7816570939882963,38,Positivo
+Eurosport,0.543550519081198,38,Positivo
+"Eve Period Tracker - Love, Sex & Relationships App",0.8794153654711064,26,Positivo
+"Even - organize your money, get paid early",0.7032855183765897,14,Positivo
+"Evernote – Organizer, Planner for Notes & Memos",0.6769366901410829,78,Positivo
+Evie Launcher,0.8634807912378979,32,Positivo
+ExDialer - Dialer & Contacts,0.700601306750003,29,Positivo
+"Expedia Hotels, Flights & Car Rental Travel Deals",0.5546744608022043,128,Positivo
+Expense IQ Money Manager,0.7665980716902441,31,Positivo
+Experian - Free Credit Report,0.6864259052527388,23,Positivo
+Extreme Coupon Finder,0.756082340252913,14,Positivo
+Extreme Match,0.7284253812491139,84,Positivo
+Extreme Racing 2 - Real driving RC cars game!,0.6270780683731129,35,Positivo
+EyeCloud,0.5554820617042323,39,Positivo
+EyeEm - Camera & Photo Filter,0.7593987766030709,37,Positivo
+EzCalculator,0.8022377289168056,38,Positivo
+FBReader: Favorite Book Reader,0.7632254961155487,39,Positivo
+FERZU - Furries Social Network,0.6506280216768833,39,Positivo
+"FIFA - Tournaments, Soccer News & Live Scores",0.5988328978411267,78,Positivo
+FINAL FANTASY BRAVE EXVIUS,0.6526180329047613,38,Positivo
+FOSSIL Q: DESIGN YOUR DIAL,0.663477373975977,32,Positivo
+FOX,0.6734311656617694,78,Positivo
+FOX NOW - On Demand & Live TV,0.5274938803270879,110,Positivo
+"FOX Sports: Live Streaming, Scores & News",0.7310673260670407,32,Positivo
+FREEDOME VPN Unlimited anonymous Wifi Security,0.7266029931734829,11,Positivo
+"FUN Keyboard – Emoji Keyboard, Sticker,Theme & GIF",0.75096813088012,12,Positivo
+"Fabulous: Motivate Me! Meditate, Relax, Sleep",0.8371805519704371,40,Positivo
+"Face Filter, Selfie Editor - Sweet Camera",0.6486549296469706,17,Positivo
+Facebook,0.45062479257910043,132,Positivo
+Facebook Ads Manager,0.5888099996167896,35,Positivo
+Facebook Lite,0.4689325041012236,29,Positivo
+Facebook Local,0.6432939952123194,35,Positivo
+Facebook Pages Manager,0.5295594992548672,34,Positivo
+Facetune - Ad Free,0.8049749411290501,42,Positivo
+Fake Call - Fake Caller ID,0.698994647349914,67,Positivo
+Fallout Shelter,0.8399043953258963,32,Positivo
+Family Album Mitene: Private Photo & Video Sharing,0.8458361999914825,39,Positivo
+Family Dollar,0.6710246808377077,35,Positivo
+Family GPS Tracker and Chat + Baby Monitor Online,0.8252282535163056,35,Positivo
+Family GPS tracker KidControl + GPS by SMS Locator,0.7314790403403201,32,Positivo
+Family Locator - GPS Tracker,0.828150789206835,115,Positivo
+FamilySearch Tree,0.7254881665855755,30,Positivo
+FanDuel: Daily Fantasy Sports,0.770946089727316,11,Positivo
+Fancy Widgets,0.7884004351989246,16,Positivo
+Fandango Movies - Times + Tickets,0.6828852524303342,66,Positivo
+Fantasy Football,0.503419029038656,69,Positivo
+Fantasy Football & NFL News,0.8362416694357371,34,Positivo
+Fantasy Football Manager (FPL),0.7399393169379012,34,Positivo
+Farm Fruit Pop: Party Time,0.7106795170481962,30,Positivo
+Farm Heroes Saga,0.5022296929301008,110,Positivo
+Farming Simulator 14,0.7079862699631212,17,Positivo
+Farming Simulator 18,0.5827531598279277,39,Positivo
+Fashion in Vogue,0.4952799714309225,113,Positivo
+Fast News,0.7682738311493283,39,Positivo
+Fast Scanner : Free PDF Scan,0.8225229421043597,74,Positivo
+Fast Secure VPN,0.6537613636544153,66,Positivo
+"FastMeet: Chat, Dating, Love",0.7593547791431551,73,Positivo
+Fat Burning Workout - Home Weight lose,0.733891611728476,36,Positivo
+Fate/Grand Order (English),0.6208356532150087,20,Positivo
+FidMe Loyalty Cards & Deals at Grocery Supermarket,0.7824645319349042,11,Positivo
+File Browser by Astro (File Manager),0.6644565754795809,12,Positivo
+File Explorer,0.7471941633891231,22,Positivo
+File Manager,0.5307779164269393,11,Positivo
+File Manager -- Take Command of Your Files Easily,0.747307065698935,22,Positivo
+Files Go by Google: Free up space on your phone,0.7261153283107978,34,Positivo
+FilterGrid - Cam&Photo Editor,0.6649386593416492,35,Positivo
+Filters for B Live,0.7084634822055748,25,Positivo
+Filters for Selfie,0.668690372222401,63,Positivo
+Final Fantasy XV: A New Empire,0.45532212960228213,32,Negativo
+Financial Times,0.7469999685096674,30,Positivo
+Find Dining Restaurant Finder,0.8205979586455541,7,Positivo
+Find a Way: Addictive Puzzle,0.7516937274380538,30,Positivo
+Find&Save - Local Shopping,0.6328483168128453,31,Positivo
+FindShip,0.6620834829827773,34,Positivo
+Firefox Browser fast & private,0.690128052329321,62,Positivo
+Firefox Focus: The privacy browser,0.7570227365550818,64,Positivo
+Fishdom,0.600998791926276,123,Positivo
+Fitbit,0.8312337804817663,6,Positivo
+Flashlight,0.8148714891369886,35,Positivo
+Flashlight & LED Torch,0.7011197847349061,25,Positivo
+Flashlight - Torch LED Light,0.789594265222766,29,Positivo
+Flashlight HD LED,0.8460491281183633,29,Positivo
+Flickr,0.6528578711802366,64,Positivo
+Flight & Hotel Booking App - ixigo,0.6932446807601975,33,Positivo
+Flightradar24 Flight Tracker,0.7181941547993788,32,Positivo
+Flights,0.6231116496999405,25,Positivo
+Flip the Gun - Simulator Game,0.49751816578217356,26,Positivo
+FlipaClip - Cartoon animation,0.863327616728002,4,Positivo
+Flipboard: News For Our Time,0.7862221562718616,13,Positivo
+Flipkart Online Shopping App,0.7467730135470039,28,Positivo
+Flipp - Weekly Shopping,0.8321666988984101,31,Positivo
+Flippy Campus - Buy & sell on campus at a discount,0.8209062200390768,34,Positivo
+FlirtChat - ♥Free Dating/Flirting App♥,0.7704677784492953,70,Positivo
+Floor Plan Creator,0.7787483649701795,37,Positivo
+Flow Free,0.6454617455236634,154,Positivo
+Flowers Live Wallpaper,0.7493121369046084,33,Positivo
+Fly Delta,0.5754870992303931,71,Positivo
+FollowMyHealth®,0.7981912230037063,38,Positivo
+Font Studio- Photo Texts Image,0.5977219305723773,34,Positivo
+Food Calorie Calculator,0.6307034718864207,39,Positivo
+Food Network,0.5183612666787957,71,Positivo
+Fooducate Healthy Weight Loss & Calorie Counter,0.8694266787465544,37,Positivo
+"Foot Mercato : transferts, résultats, news, live",0.7898125437960214,36,Positivo
+Football Live Scores,0.8028985813094031,34,Positivo
+ForecaWeather,0.791409013525326,38,Positivo
+Fortune City - A Finance App,0.8480216666364443,47,Positivo
+Four In A Line,0.7523648430692366,61,Positivo
+Four In A Line Free,0.7183603965109915,27,Positivo
+Foursquare City Guide,0.7184509288878088,28,Positivo
+Foursquare Swarm: Check In,0.487744918861723,29,Positivo
+Fox Business,0.6696587939135182,34,Positivo
+"Fox News – Breaking News, Live Video & News Alerts",0.48471416650822247,105,Positivo
+Fraction Calculator Plus Free,0.8314319250903565,31,Positivo
+Free & Premium VPN - FinchVPN,0.6806082525059916,31,Positivo
+Free Dating & Flirt Chat - Choice of Love,0.5819440254049455,33,Positivo
+Free Dating App & Flirt Chat - Cheers,0.7397381672860441,30,Positivo
+Free Dating App & Flirt Chat - Match with Singles,0.7666291812733796,33,Positivo
+Free Dating App - Meet Local Singles - Flirt Chat,0.496354812657085,67,Positivo
+"Free Dating App - YoCutie - Flirt, Chat & Meet",0.6797430861663889,59,Positivo
+Free Dating Hook Up Messenger,0.705774923169268,64,Positivo
+Free Foreclosure Real Estate Search by USHUD.com,0.49538608260330796,37,Positivo
+Free Hypnosis,0.8178405785014614,15,Positivo
+Free Panda Radio Music,0.623747730121238,3,Positivo
+Free Sports TV,0.696152829089723,27,Positivo
+"Free TV Shows App:News, TV Series, Episode, Movies",0.7670906691266817,37,Positivo
+Free VIN Report for Used Cars,0.8337140142043667,35,Positivo
+Free live weather on screen,0.8074190207574256,38,Positivo
+"Free phone calls, free texting SMS on free number",0.6656952258717368,36,Positivo
+FreePrints – Free Photos Delivered,0.8572729060051475,36,Positivo
+Freeletics: Personal Trainer & Fitness Workouts,0.6600033713030844,32,Positivo
+Freeme Launcher—Stylish Theme,0.7514734479023799,35,Positivo
+Fresh EBT - Food Stamp Balance,0.7043021353742162,34,Positivo
+FreshBooks Classic,0.5806686435338105,77,Positivo
+Frontback - Social Photos,0.6937816066596866,35,Positivo
+Frozen Free Fall,0.5417331588571099,60,Positivo
+Fruit Ninja®,0.7586575539500828,31,Positivo
+Fruits Bomb,0.7963055287101133,78,Positivo
+Fuelio: Gas log & costs,0.8458752189298707,88,Positivo
+Full Screen Caller ID,0.7164809800109615,31,Positivo
+Fun Kid Racing,0.7871197468023493,33,Positivo
+Fun Kid Racing - Motocross,0.7779018114098402,30,Positivo
+Funny Alarm Clock Ringtones,0.7179907922753661,27,Positivo
+Funny Pics,0.6858194762021538,15,Positivo
+Fuzzy Seasons: Animal Forest,0.8092004826102668,14,Positivo
+G Cloud Backup,0.7699803655532863,29,Positivo
+GANMA! - オリジナル漫画が全話無料で読み放題,0.8228903936385614,31,Positivo
+"GCash - Buy Load, Pay Bills, Send Money",0.4926238364223575,33,Positivo
+GMAT Math Flashcards,0.835431929045011,36,Positivo
+GMAT Question Bank,0.6832545082352679,34,Positivo
+GMX Mail,0.742680903605275,30,Positivo
+"GO Keyboard - Cute Emojis, Themes and GIFs",0.7235219270738837,25,Positivo
+"GO Keyboard - Emoticon keyboard, Free Theme, GIF",0.7409910823321113,31,Positivo
+GO Notifier,0.5378874117884445,34,Positivo
+"GO SMS Pro - Messenger, Free Themes, Emoji",0.633844298009469,26,Positivo
+"GO Weather - Widget, Theme, Wallpaper, Efficient",0.7382656703769747,22,Positivo
+GPS Speedometer and Odometer,0.9486707097498963,4,Positivo
+"GPS Speedometer, Distance Meter",0.8037432021946453,30,Positivo
+GPS Status & Toolbox,0.7953326025639093,34,Positivo
+GPS Traffic Speedcam Route Planner by ViaMichelin,0.7146217283206265,36,Positivo
+GRE Flashcards,0.8424376466347797,36,Positivo
+GRE Prep & Practice by Magoosh,0.8558682763888255,36,Positivo
+GRE Tutor,0.8621002525320589,39,Positivo
+GS SHOP,0.686644023634846,38,Positivo
+GUNSHIP BATTLE: Helicopter 3D,0.597686173211214,34,Positivo
+Galactic Core Free Wallpaper,0.7565794278849363,36,Positivo
+Galaxy Attack: Alien Shooter,0.6587362311222565,134,Positivo
+Game of Thrones: Conquest™,0.6913259168293854,9,Positivo
+"Gametime - Tickets to Sports, Concerts, Theater",0.8354457941182097,37,Positivo
+Garden Coloring Book,0.7890956698550826,90,Positivo
+Garden Fruit Legend,0.7718305725676398,37,Positivo
+Garden Photo Frames - Garden Photo Editor,0.783185170458108,39,Positivo
+Gardenscapes,0.5027650851582867,133,Positivo
+Garena Free Fire,0.5723795009271048,222,Positivo
+Garmin Connect™,0.7184410311276038,40,Positivo
+GasBuddy: Find Cheap Gas,0.7731221375548237,40,Positivo
+Gay Sugar Daddy Dating & Hookup – Sudy Gay,0.7221125633182982,76,Positivo
+Gboard - the Google Keyboard,0.6677671483489225,76,Positivo
+Gems or jewels ?,0.7369787030436871,39,Positivo
+Genius Scan - PDF Scanner,0.8079324838373996,13,Positivo
+Gmail,0.5261522247497186,64,Positivo
+GoBank,0.5547205924640805,39,Positivo
+GoPro (formerly Capture),0.41983914120803095,39,Negativo
+Goal Live Scores,0.6255522850230048,40,Positivo
+Goibibo - Flight Hotel Bus Car IRCTC Booking App,0.7589379810597738,38,Positivo
+Goku Wallpaper Art,0.8476264806214969,35,Positivo
+Gold Butterfly Keyboard Theme,0.8274579032245821,38,Positivo
+Golden Dictionary (EN-AR),0.7830027774702173,36,Positivo
+Golden Launcher,0.8537657477801732,37,Positivo
+Goldstar: Live Event Tickets,0.9107800067378534,40,Positivo
+Golf Channel,0.4483503142457702,40,Positivo
+Golf GPS Rangefinder: Golf Pad,0.813281976738212,39,Positivo
+Golf GPS by SwingxSwing,0.7662644769618261,40,Positivo
+GolfLogix GPS + Putt Breaks,0.5316474310670387,39,Positivo
+"GolfNow: Tee Time Deals at Golf Courses, Golf GPS",0.715694910993564,38,Positivo
+Golfshot Plus: Golf GPS,0.7982430545630489,40,Positivo
+Golfshot: Golf GPS + Tee Times,0.7757763330592473,78,Positivo
+GoodRx Drug Prices and Coupons,0.740579883762995,37,Positivo
+Google,0.6596081785411915,38,Positivo
+Google Ads,0.6636134595307976,72,Positivo
+Google Duo - High Quality Video Calls,0.7182741881421818,18,Positivo
+Google Earth,0.6558376072074897,38,Positivo
+Google Fit - Fitness Tracking,0.700076030702833,40,Positivo
+Google Handwriting Input,0.7103689784223787,37,Positivo
+Google Keep,0.7008968745866838,120,Positivo
+Google My Business,0.7011224157571344,117,Positivo
+Google News,0.6727939342639965,117,Positivo
+Google PDF Viewer,0.6595271386885491,80,Positivo
+Google Pay,0.6166047948240754,117,Positivo
+Google Photos,0.7082429439081707,191,Positivo
+Google Street View,0.5113671377668142,4,Positivo
+Google Voice,0.6597062932800711,8,Positivo
+Granny,0.7009011065298829,29,Positivo
+Graphing Calculator,0.7471986707237949,79,Positivo
+Grim Soul: Dark Fantasy Survival,0.6852754012078516,36,Positivo
+Groovebook Photo Books & Gifts,0.6492587469973266,39,Positivo
+GroupMe,0.638799749549401,39,Positivo
+"Groupon - Shop Deals, Discounts & Coupons",0.7247634936130098,120,Positivo
+Grubhub: Food Delivery,0.6574670828304552,76,Positivo
+Guns of Glory,0.47293700102352154,40,Negativo
+Gyft - Mobile Gift Card Wallet,0.4885954238129322,120,Positivo
+H Pack,0.6635925245505689,40,Positivo
+H TV,0.7717133107312282,37,Positivo
+H&M,0.5734145734664414,37,Positivo
+HBO GO: Stream with TV Package,0.38671308054248577,25,Negativo
+HD Camera - Best Cam with filters & panorama,0.6848531277445362,11,Positivo
+HD Camera - Quick Snap Photo & Video,0.8658772454108323,17,Positivo
+HD Camera Pro for Android,0.6448293525222129,17,Positivo
+HD Camera Ultra,0.7115801304868952,18,Positivo
+HD Camera for Android,0.8361444457347176,50,Positivo
+HD Movie Video Player,0.6502771786679089,31,Positivo
+HD Video Player,0.6674127377821979,38,Positivo
+HD Widgets,0.7132219473786996,31,Positivo
+HDFC Bank MobileBanking,0.4933291214081946,35,Positivo
+HESI A2 Pocket Prep,0.8185855296628104,30,Positivo
+HISTORY: Watch TV Show Full Episodes & Specials,0.7360049782621639,61,Positivo
+HTC Calendar,0.4432932677978722,3,Positivo
+HTC File Manager,0.5228358777451045,21,Positivo
+HTC Gallery,0.5752229431390864,28,Positivo
+HTC Help,0.519115656813914,40,Positivo
+HTC Lock Screen,0.5087198470978453,39,Positivo
+HTC Mail,0.5373163832903973,40,Positivo
+HTC Sense Input,0.5094353120934969,40,Positivo
+HTC Sense Input-AR,0.7002720842431632,38,Positivo
+HTC Service － DLNA,0.5259621626269535,37,Positivo
+HTC Service—Video Player,0.6217113937618575,40,Positivo
+HTC Social Plugin - Facebook,0.43899223263230214,39,Negativo
+HTC Speak,0.5202173275978662,39,Positivo
+HTC Weather,0.6095352513698867,38,Positivo
+Hacker's Keyboard,0.8267983172258125,40,Positivo
+Hairstyles step by step,0.8652531679437372,79,Positivo
+Hamilton — The Official App,0.5838030431042038,35,Positivo
+Hangouts,0.7123789915543894,114,Positivo
+Happify,0.8133199177046162,4,Positivo
+Happy Birthday Songs Offline,0.802348668613596,17,Positivo
+Happy Fruits Bomb - Cube Blast,0.6170351186059199,25,Positivo
+Happy Street,0.6092793456744658,22,Positivo
+Harkins Theatres,0.5125945743546831,22,Positivo
+Harry Potter: Hogwarts Mystery,0.6667365766001966,54,Positivo
+HauteLook,0.665112476679997,33,Positivo
+Hay Day,0.5994230984495387,61,Positivo
+Haystack TV: Local & World News - Free,0.8342967698545215,15,Positivo
+Headspace: Meditation & Mindfulness,0.7365520425070141,11,Positivo
+Health and Nutrition Guide,0.8245064970708648,112,Positivo
+HealtheLife,0.5525590535159248,40,Positivo
+Healthy Recipes Free,0.837684849975351,39,Positivo
+Helix Jump,0.5971995687920157,273,Positivo
+Hello Kitty Lunchbox,0.6410107340761614,34,Positivo
+Hello Kitty Nail Salon,0.579025899608921,65,Positivo
+Hello Stars,0.6956341148003766,66,Positivo
+"HelloTalk — Chat, Speak & Learn Foreign Languages",0.6348117572049216,3,Positivo
+Hero Hunters,0.5887335445498678,30,Positivo
+"Herpes Dating: 1,000K+ Singles",0.7013696885405845,32,Positivo
+Herpes Positive Singles Dating,0.8131097525978356,28,Positivo
+"Hide App, Private Dating, Safe Chat - PrivacyHider",0.478814268315623,53,Positivo
+"Hide Something - Photo, Video",0.6926041352304246,30,Positivo
+Hideman VPN,0.5684788335312929,31,Positivo
+High Blood Pressure Symptoms,0.816835773063614,37,Positivo
+High-Powered Flashlight,0.7944783779266593,34,Positivo
+"High-Speed Camera (GIF,Burst)",0.7549175695309316,26,Positivo
+Hill Climb Racing,0.6424910740462887,44,Positivo
+Hill Climb Racing 2,0.6863908205299676,64,Positivo
+"Hily: Dating, Chat, Match, Meet & Hook up",0.6037745297813444,102,Positivo
+Hinge: Dating & Relationships,0.6826984036149847,69,Positivo
+HipChat - Chat Built for Teams,0.4440991381062452,66,Positivo
+Hipmunk Hotels & Flights,0.8825371098879033,35,Positivo
+Hitwe - meet people and chat,0.4568160482935568,9,Positivo
+"Hole19: Golf GPS App, Rangefinder & Scorecard",0.8828966429011524,19,Positivo
+Home Decor Showpiece Art making: Medium Difficulty,0.7388139789944098,24,Positivo
+Home Scouting® MLS Mobile,0.5394263754746155,32,Positivo
+Home Security Camera WardenCam - reuse old phones,0.7046914085995837,26,Positivo
+Home Street – Home Design Game,0.7287947740479127,57,Positivo
+Home Workout - No Equipment,0.8597120856906527,26,Positivo
+Home Workout for Men - Bodybuilding,0.9145847986674771,26,Positivo
+"Home workouts - fat burning, abs, legs, arms,chest",0.8998995087389525,8,Positivo
+"Homes.com 🏠 For Sale, Rent",0.6996794235139213,21,Positivo
+Homescapes,0.518593292093839,52,Positivo
+Homesnap Real Estate & Rentals,0.74917632079482,35,Positivo
+Homestyler Interior Design & Decorating Ideas,0.6740563437913398,34,Positivo
+Homework Planner,0.8702643854400384,37,Positivo
+Honkai Impact 3rd,0.7170179741712476,76,Positivo
+Hopper - Watch & Book Flights,0.7185023967886851,76,Positivo
+Horoscopes – Daily Zodiac Horoscope and Astrology,0.7441959335296408,33,Positivo
+Horses Live Wallpaper,0.7318834397751114,33,Positivo
+Hostelworld: Hostels & Cheap Hotels Travel App,0.7853741711273198,65,Positivo
+Hot Wheels: Race Off,0.6462931456778034,20,Positivo
+HotelTonight: Book amazing deals at great hotels,0.7843301424333462,127,Positivo
+Hotels Combined - Cheap deals,0.609417138014139,36,Positivo
+Hotels.com: Book Hotel Rooms & Find Vacation Deals,0.5832558426829747,68,Positivo
+Hotspot Shield Free VPN Proxy & Wi-Fi Security,0.7206734491660322,33,Positivo
+Hotstar,0.5202273980664711,32,Positivo
+Hotwire Hotel & Car Rental App,0.6652198571004644,33,Positivo
+Housing-Real Estate & Property,0.4882070169546794,21,Positivo
